@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on Fpass - Lifelong Learning
 - 📚 I’m currently learning react, react native, node, tests, docker and figma
 - 🎯 Goals: earn in dollars 💰 / live in a cold place ❄ and speak fluent English 🚀
-- 💬 Ask me about html, css, react, react native and node
+- 💬 Ask me about html, css, react, react native and node, figma
 - 📫 How to reach me: gccavalheiro94@gmail.com
 - 🎲 I play World of Warcraft and mmorpg games
 
