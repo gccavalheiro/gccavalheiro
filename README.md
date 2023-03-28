@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Gabriel
 
 
-- 🔭 I’m currently working on Fpass - Lifelong Learning
+- 🔭 I’m currently working on levva.io
 - 📚 I’m currently learning react, react native, node, tests, docker and figma
 - 🎯 Goals: earn in dollars 💰 / live in a cold place ❄ and speak fluent English 🚀
 - 💬 Ask me about html, css, react, react native and node, figma
