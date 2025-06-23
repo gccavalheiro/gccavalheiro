@@ -25,6 +25,3 @@
   <img align="center" alt="" height="33" width="auto" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img align="center" alt="" height="33" width="auto" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white">
 </div>
-<br/>
-
-![snake gif](https://github.com/gccavalheiro/gccavalheiro/blob/output/github-contribution-grid-snake.svg)
