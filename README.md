@@ -7,11 +7,7 @@
 - 📫 How to reach me: gccavalheiro94@gmail.com
 - 🎲 I play World of Warcraft and mmorpg games
 
-<div>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gccavalheiro&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gccavalheiro&layout=compact&langs_count=7&theme=radical"/>
-</div>
-<br/>
+ 
 <br/>
 <div style="display: inline_block">
   <img align="center" alt="" height="33" width="auto" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
